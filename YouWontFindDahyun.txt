@@ -1,0 +1,1179 @@
+title You wont find Dahyun - [ENG]
+author Fabio
+background_color #FFFCF6
+text_color LightRed
+(debug)
+again_interval 0.1
+run_rules_on_level_start
+flickscreen 17x9
+========
+OBJECTS
+========
+
+Background .
+#FFFCF6
+
+FakeBackground1 Ç
+#FFFCF6
+FakeBackground2 ü
+#FFFCF6
+FakeBackground3 é
+#FFFCF6
+FakeBackground4 â
+#FFFCF6
+FakeBackground5 ä
+#FFFCF6
+FakeBackground6 à
+#FFFCF6
+FakeBackground7 å
+#FFFCF6
+FakeBackground8 ö
+#A8A897
+FakeBackground9 ê
+#FFFCF6
+FakeBackground10 ë
+#FFFCF6
+FakeBackground11 è
+#FFFCF6
+FakeBackground12 ï
+#FFFCF6
+FakeBackground13 î
+#FFFCF6
+FakeBackground14 ì
+#FFFCF6
+FakeBackground15 ò
+#FFFCF6
+FakeBackground16 ñ
+#FFFCF6
+FakeBackground17 ú
+#FFFCF6
+FakeBackground18 ┐
+transparent
+FakeBackground19 └ 
+transparent
+FakeBackground20 Ð
+transparent
+FakeBackground21 °
+transparent
+FakeBackground22 ¨
+transparent
+FakeBackground23 ·
+transparent
+FakeBackground24 ¹
+transparent
+FakeBackground25 ³
+Black
+FakeBackground26 $
+transparent
+FakeBackground27 ㅂ
+transparent
+FakeBackground28 ㅅ
+transparent
+FakeBackground29 ㅁ
+transparent
+FakeBackground30 ㄴ
+black
+FakeBackground31 ㅇ
+black
+FakeBackground32 ㅎ
+transparent
+FakeBackground33 ㅌ
+transparent
+FakeBackground34 ㅃ
+transparent
+FakeBackground35 ㅉ
+transparent
+FakeBackground36 ㄸ
+transparent
+FakeBackground37 ㄲ
+transparent
+FakeBackground38 ㅔ
+transparent
+FakeBackground39 我
+transparent
+FakeBackground40 了
+transparent
+FakeBackground41 在
+transparent
+FakeBackground42 有
+transparent
+FakeBackground43 他
+transparent
+FakeBackground44 这
+transparent
+FakeBackground45 为
+transparent
+FakeBackground46 之
+transparent
+FakeBackground47 来
+transparent
+FakeBackground48 以
+transparent
+FakeBackground49 个
+transparent
+FakeBackground50 中
+transparent
+FakeBackground51 上
+transparent
+FakeBackground52 说
+transparent
+FakeBackground53 地
+transparent
+
+CloseWayBack1 1
+transparent
+CloseWayBack2 2
+transparent
+CloseWayBack3 3
+Green
+CloseWayBack4 4
+Green
+CloseWayBack5 5
+Green
+CloseWayBack6 6
+Green
+CloseWayBack7 7
+Green
+
+
+
+Wall û
+#A8A897 
+WallFake1 ó
+#A8A897 
+WallFake2 ¢
+#A8A897 
+WallFake3 ¥
+#A8A897  
+WallFake4 ┴
+#A8A897 
+WallFake5 ┬
+#A8A897 
+WallFake6 ├
+#A8A897 
+WallFake7 ─
+#A8A897 
+WallFake8 ┼
+#A8A897 
+WallFake9 ã
+#A8A897 
+WallFake10 ÷
+#A8A897
+WallFake11 ²
+#A8A897
+WallFake12 ㅈ 
+#A8A897
+WallFake13 ㅑ
+#A8A897
+WallFake14 ㅊ
+#A8A897
+WallFake15 和
+#A8A897
+BrokenWall !
+#FFFCF6 #243B33
+10101
+01010
+10101
+01010
+10101
+
+
+GreenRealDoor æ
+green
+GreenFakeDoor1 £
+green
+GreenFakeDoor2 í
+green
+
+GreenXDoor ƒ
+green red
+00000
+00101
+00010
+00101
+00000
+
+RedRealDoor ø
+green
+
+
+Player
+purple #5E4646
+11111
+10001
+00000
+.000.
+.0.0.
+
+PlayerDead X
+purple #5E4646 red
+11111
+10001
+00220
+.0022
+.0.02
+
+FakePlayer1 ×
+purple #5E4646
+11111
+10001
+00000
+.000.
+.0.0.
+
+FakePlayer2 á
+purple #5E4646
+11111
+10001
+00000
+.000.
+.0.0.
+
+CableL L
+Black
+..0..
+.00..
+.0...
+.00..
+..0..
+
+CableL2 =
+Black
+..0..
+.00..
+.0...
+.00..
+..0..
+
+CableR R
+Black
+..0..
+..00.
+...0.
+..00.
+..0..
+
+CableL3 ㄷ
+Black
+..0..
+.00..
+.0...
+.00..
+..0..
+
+CableR2 ㄱ
+Black
+..0..
+..00.
+...0.
+..00.
+..0..
+
+
+Virus1 M
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus2 N
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus3 O
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus4 Q
+gray black blue
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus5 S
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus6 U
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus7 ?
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus8 ㅗ
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus9 的
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus10 ㅐ
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus11 是
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+Virus12 ㅕ
+gray black red
+.000.
+.200.
+...0.
+00000
+01010
+
+GoldenVirus G
+#C7CD5E black lightblue
+.000.
+.200.
+...0.
+00000
+01010
+
+GoldenVirus2 ㅡ
+#C7CD5E black lightblue
+.000.
+.200.
+...0.
+00000
+01010
+
+GoldenVirus3 ㅜ
+#C7CD5E black lightblue
+.000.
+.200.
+...0.
+00000
+01010
+
+GoldenVirus4 ㅏ
+#C7CD5E black lightblue
+.000.
+.200.
+...0.
+00000
+01010
+
+GoldenVirus5 ㅓ
+#C7CD5E black blue
+.000.
+.200.
+...0.
+00000
+01010
+
+GoldenVirus6 到
+#C7CD5E black lightblue
+.000.
+.200.
+...0.
+00000
+01010
+
+GoldenVirus7 国
+#59D8C5 black #30B4A0
+.000.
+.200.
+...0.
+00000
+01010
+
+Blood B
+red
+0....
+00...
+000..
+00...
+000..
+
+Blood2 ㅋ
+red
+0.00.
+.0000
+.0000
+000..
+000..
+
+Button1 A
+Red Orange DarkRed
+.000.
+01100
+01000
+00002
+.022.
+
+Button5 _
+Red Orange DarkRed
+.000.
+01100
+01000
+00002
+.022.
+
+Button3 %
+Orange red DarkRed blue
+.000.
+01100
+01000
+00002
+.022.
+
+Button2 C
+Darkred #A84E17 Black
+.000.
+01100
+01000
+00002
+.022.
+
+Button4 +
+Darkred #A84E17 Black
+.000.
+01100
+01000
+00002
+.022.
+
+Button6 ㅠ
+yellow lightblue DarkRed
+.000.
+01100
+01000
+00002
+.022.
+
+Button7 不
+#A3AB1C #115A4B Black
+.000.
+01100
+01000
+00002
+.022.
+
+
+Pfeil1 ╦
+#4EE832 #2F57FA
+..1..
+..1..
+1.1.1
+.111.
+..1..
+
+Pfeil2 ╠
+#4EE832 #2F57FA
+..1..
+...1.
+11111
+...1.
+..1..
+
+Pfeil3 ㅍ
+#4EE832 #2F57FA
+..0..
+...0.
+00000
+...0.
+..0..
+
+Pfeil4 们
+#4EE832 pink
+..1..
+.1...
+11111
+.1...
+..1..
+
+
+Bomb1 T
+black orange
+0.1.0
+.000.
+10101
+.000.
+0.1.0
+
+Bomb2 -
+black red
+0.1.0
+.000.
+10101
+.000.
+0.1.0
+
+Bomb3 ㅛ
+black lightblue
+0.1.0
+.000.
+10101
+.000.
+0.1.0
+
+Explosion
+yellow
+000.0
+0.00.
+00000
+.00.0
+00.00
+
+SecondaryExplosion
+brown
+0.0.0
+0..0.
+.0000
+00.0.
+.0..0
+
+PushBlock @
+darkblue lightblue lightred
+.000.
+01110
+01110
+01110
+.000.
+
+EvilGuy *
+black lightgreen
+11111
+10001
+00000
+.000.
+.0.0.
+
+EvilGuy2 ㄹ
+black lightgreen red
+11111
+10001
+22000
+.200.
+.0.0.
+
+
+=======
+LEGEND
+=======
+
+FakeBackground = FakeBackground1 or FakeBackground2 or FakeBackground3 or FakeBackground4 or FakeBackground5 or FakeBackground6 or FakeBackground7 or FakeBackground8 or FakeBackground9 or FakeBackground10 or FakeBackground11 or FakeBackground12 or FakeBackground13 or FakeBackground14 or FakeBackground15 or FakeBackground16 or FakeBackground17 or FakeBackground20 or FakeBackground21 or FakeBackground22 or FakeBackground23 or FakeBackground24 or FakeBackground26 or FakeBackground27 or FakeBackground29 or FakeBackground30 or FakeBackground31 or FakeBackground32 or FakeBackground33 or FakeBackground34 or FakeBackground35 or FakeBackground36 or FakeBackground37 or FakeBackground38 or FakeBackground39 or FakeBackground40 or FakeBackground41 or FakeBackground42 or FakeBackground43 or FakeBackground44 or FakeBackground45 or FakeBackground46 or FakeBackground47 or FakeBackground48 or FakeBackground49 or FakeBackground50 or FakeBackground51 or FakeBackground52 or FakeBackground53
+
+Door = GreenRealDoor or GreenFakeDoor1 or GreenFakeDoor2 or RedRealDoor
+
+FakePlayer = FakePlayer1 or FakePlayer2
+
+Walls = Wall or WallFake1 or WallFake3 or WallFake4 or WallFake7 or WallFake9 or WallFake10 or WallFake11 or WallFake12 or WallFake13 or WallFake14 or WallFake15
+GoldenViruses = GoldenVirus or GoldenVirus2 or GoldenVirus3 or GoldenVirus5 or GoldenVirus7
+Viruses = Virus1 or Virus2 or Virus3 or Virus4 or Virus5 or Virus6 or GoldenViruses or Virus7 or Virus8 or Virus9 or Virus10 or Virus11 or Virus12 or GoldenVirus4 or GoldenVirus6
+
+CloseWayBack = CloseWayBack1 or CloseWayBack2 or CloseWayBack3 or CloseWayBack4 or CloseWayBack5 or CloseWayBack6 or CloseWayBack7
+
+P = Player
+
+Button = Button1 or Button2 or Button3 or Button4 or Button5 or Button6 or Button7
+
+Cables = CableL or CableL2 or CableR or CableL3 or CableR2
+
+Pfeils = Pfeil1 or Pfeil2 or Pfeil3 or Pfeil4
+
+AnyBlock = PushBlock or Bomb1 or Bomb2 or BrokenWall or bomb3
+AnyMovable = PushBlock
+Damage = Explosion or SecondaryExplosion
+=======
+SOUNDS
+=======
+sfx0 90329702
+sfx1 24582107
+sfx2 54109100
+sfx3 23773503
+sfx4 50489302
+================
+COLLISIONLAYERS
+================
+Background
+EvilGuy2
+FakeBackground, Door, Blood, PlayerDead, GreenXDoor, Button, CloseWayBack, Pfeils, SecondaryExplosion, Explosion, Blood2
+Player, FakePlayer, Walls, AnyBlock, EvilGuy, FakeBackground25, FakeBackground28 
+Cables, Viruses, WallFake2, FakeBackground18, FakeBackground19, WallFake5, WallFake6, WallFake8
+
+======
+RULES
+======
+late [Player FakeBackground1][FakeBackground20] -> [Player FakeBackground1][CableL2]
+late [Player FakeBackground2][CableL2] -> [Player FakeBackground2][FakeBackground20]
+
+[FakePlayer | ... | GreenRealDoor] -> [> FakePlayer | ... | GreenRealDoor]
+late [FakePlayer GreenRealDoor] -> [GreenRealDoor]
+
+[stationary GreenFakeDoor2 ] -> [randomDir GreenFakeDoor2]
+Late [Player GreenFakeDoor2][GreenFakeDoor2] -> [Player GreenFakeDoor2][GreenRealDoor]
+Late [Player FakeBackground1][RedRealDoor] -> [Player FakeBackground1][Wall]
+
+[stationary CableL ] -> [randomDir CableL]
+[stationary CableR ] -> [randomDir CableR]
+Late [Player FakeBackground3][FakeBackground2] -> [Player FakeBackground3][CableL]
+Late [Player FakeBackground4][FakeBackground3] -> [Player FakeBackground4][CableR]
+Late [Player FakeBackground5][FakeBackground4] -> [Player FakeBackground5][CableL]
+Late [Player FakeBackground6][FakeBackground5] -> [Player FakeBackground6][CableR]
+Late [Player FakeBackground7][FakeBackground6] -> [Player FakeBackground7][CableL]
+Late [Player FakeBackground7][GreenFakeDoor1] -> [Player FakeBackground7][Wall]
+Late [Player FakeBackground7][FakeBackground8] -> [Player FakeBackground7][GreenRealDoor]
+
+late [Player CableL]-> [CableL] restart message YOU LOST! 
+late [Player CableR]-> [CableR] restart message YOU LOST!
+late [Player Virus1]-> [Virus1] restart message YOU LOST! 
+late [Player Virus2]-> [Virus2] restart message YOU LOST! 
+late [Player Virus3]-> [Virus3] restart message YOU LOST! 
+late [Player Virus4]-> [Virus4] restart message YOU LOST! 
+late [Player Virus5]-> [Virus5] restart message YOU LOST! 
+late [Player Virus6]-> [Virus6] restart message YOU LOST! 
+(ë..M.........ê)
+[Virus1 | ... | ê] -> [> Virus1 | ... | ê]
+Late [Virus1 ê][ë] -> [Virus1 ê][è]
+Late [Virus1 ê][ê] -> [Virus1 ê][ë]
+[Virus1 | ... | è] -> [> Virus1 | ... | è]
+Late [Virus1 è][ë] -> [Virus1 è][ê]
+Late [Virus1 è][è] -> [Virus1 è][ë]
+
+[Virus2 | ... | ï] -> [> Virus2 | ... | ï]
+Late [Virus2 ï][î] -> [Virus2 ï][ì]
+Late [Virus2 ï][ï] -> [Virus2 ï][î]
+[Virus2 | ... | ì] -> [> Virus2 | ... | ì]
+Late [Virus2 ì][î] -> [Virus2 ì][ï]
+Late [Virus2 ì][ì] -> [Virus2 ì][î]
+
+[Virus3 | ... | ò] -> [> Virus3 | ... | ò]
+Late [Virus3 ò][ñ] -> [Virus3 ò][ú]
+Late [Virus3 ò][ò] -> [Virus3 ò][ñ]
+[Virus3 | ... | ú] -> [> Virus3 | ... | ú]
+Late [Virus3 ú][ñ] -> [Virus3 ú][ò]
+Late [Virus3 ú][ú] -> [Virus3 ú][ñ]
+
+[stationary Virus5 ] -> [randomDir Virus5]
+Late [Player Button1][Virus5] -> [Player Button1][]
+Late [Player Button1][Button1] -> [Player Button1][Button2] sfx0
+Late [Player Button3][Button3] -> [Player Button3][Button2] sfx0
+Late [Player Button5][Button5] -> [Player Button5][Button4] sfx0
+Late [Player Button6][Button6] -> [Player Button6][Button7] sfx3
+
+Late [Player CloseWayBack2][CloseWayBack1] -> [Player CloseWayBack2][Wall]
+Late [Player CloseWayBack2][WallFake3] -> [Player CloseWayBack2][WallFake6]
+Late [Player CloseWayBack1][WallFake2] -> [Player CloseWayBack1][WallFake7]
+
+Late [Player CloseWayBack4][CloseWayBack3] -> [Player CloseWayBack4][Wall]
+Late [Player CloseWayBack4][WallFake4] -> [Player CloseWayBack4][WallFake8]
+Late [Player CloseWayBack3][WallFake5] -> [Player CloseWayBack3][WallFake9]
+
+[> Player | PushBlock ] -> [ Player | > PushBlock ] sfx1
+
+[ SecondaryExplosion ] -> []
+
+[ | Explosion ] -> [ SecondaryExplosion | Explosion ] again
+
+late [SecondaryExplosion | Explosion] ->  [SecondaryExplosion | SecondaryExplosion ] again
+
+[ > AnyMovable | Bomb1 ] -> [ | Explosion ] again sfx0
+late [Player Button2][Bomb1] -> [Player Button2][Explosion] again
+late [Player Button3][Bomb1] -> [Player Button3][Explosion] again
+
+[ > AnyMovable | Bomb2 ] -> [ | Explosion ] again sfx0
+late [Player Button4][Bomb2] -> [Player Button4][Explosion] again
+late [Player Button5][Bomb2] -> [Player Button5][Explosion] again
+
+[ > AnyMovable | Bomb3 ] -> [ | Explosion ] again sfx0
+
+late [SecondaryExplosion Virus1][Virus1] -> [SecondaryExplosion][]again
+
+late [ BrokenWall Damage ] -> [ Damage ]
+late [ AnyBlock Damage ] -> [ Damage ] 
+late [ Walls Damage ] -> [ Damage ]
+
+[Player GoldenViruses] -> [Player] sfx2
+Late [Player GoldenVirus][WallFake10] -> [Player GoldenVirus][GreenRealDoor]
+Late [Player GoldenVirus2][WallFake13] -> [Player GoldenVirus2][]
+
+
+Late [Player Button2][FakeBackground1] -> [Player Button2][CableL]
+Late [Player Button2][FakeBackground2] -> [Player Button2][CableR]
+
+[FakePlayer1 | ... | FakeBackground21] -> [> FakePlayer1 | ... | FakeBackground21]
+Late [FakePlayer1 FakeBackground21][FakeBackground22] -> [FakePlayer1 FakeBackground21][FakeBackground23]
+Late [FakePlayer1 FakeBackground21][FakeBackground21] -> [FakePlayer1 FakeBackground21][FakeBackground22]
+[FakePlayer1 | ... | FakeBackground23] -> [> FakePlayer1 | ... | FakeBackground23]
+Late [FakePlayer1 FakeBackground23][FakeBackground22] -> [FakePlayer1 FakeBackground23][FakeBackground21]
+Late [FakePlayer1 FakeBackground23][FakeBackground23] -> [FakePlayer1 FakeBackground23][FakeBackground22]
+
+Late [Player FakeBackground24][CableL] -> [Player FakeBackground24][]
+Late [Player FakeBackground24][CableR] -> [Player FakeBackground24][]
+Late [Player GoldenVirus][WallFake11] -> [Player GoldenVirus][]
+
+Late [Player FakeBackground27][FakeBackground26] -> [Player FakeBackground27][FakeBackground25]
+Late [Player FakeBackground27][WallFake12]->[Player FakeBackground27][FakeBackground25]
+
+
+late [player FakeBackground29][FakeBackground30] -> [player FakeBackground29][FakeBackground31]
+late [Player FakeBackground29][FakeBackground32] -> [Player FakeBackground29][EvilGuy2]
+[EvilGuy2 | ... | FakeBackground31] -> [> EvilGuy2 | ... | FakeBackground31]
+
+
+Late [Player GoldenVirus3][FakeBackground33] -> [Player GoldenVirus3][Pfeil3]
+Late [Player GoldenVirus3][WallFake14] -> [Player GoldenVirus3][]
+
+late [Player Button7][GoldenVirus4] -> [Player Button7][GoldenVirus5]
+
+[Virus8 | ... | FakeBackground35] -> [> Virus8 | ... | FakeBackground35] again
+Late [Player Button7][FakeBackground34] -> [Player Button7][FakeBackground35]
+[Virus8 FakeBackground38] -> [FakeBackground38] sfx4
+
+[GoldenVirus5 | ... | FakeBackground36] -> [> GoldenVirus5 | ... | FakeBackground36] again
+Late [Player Button7][FakeBackground37] -> [Player Button7][FakeBackground36]
+
+[Virus9 | ... | FakeBackground39] -> [> Virus9 | ... | FakeBackground39] again
+Late [Player Button7][FakeBackground40] -> [Player Button7][FakeBackground39]
+[Virus9 FakeBackground41] -> [FakeBackground41] sfx4
+
+[Virus10 | ... | FakeBackground42] -> [> Virus10 | ... | FakeBackground42] again
+Late [Player Button7][FakeBackground43] -> [Player Button7][FakeBackground42]
+[Virus10 FakeBackground44] -> [FakeBackground44] sfx4
+
+[Virus11 | ... | FakeBackground45] -> [> Virus11 | ... | FakeBackground45] again
+Late [Player Button7][FakeBackground46] -> [Player Button7][FakeBackground45]
+[Virus11 FakeBackground47] -> [FakeBackground47] sfx4
+
+[Virus12 | ... | FakeBackground48] -> [> Virus12 | ... | FakeBackground48] again
+Late [Player Button7][FakeBackground49] -> [Player Button7][FakeBackground48]
+[Virus12 FakeBackground50] -> [FakeBackground50] sfx4
+
+Late [GoldenVirus5 FakeBackground51][GoldenVirus5] -> [GoldenVirus5 FakeBackground51][GoldenVirus6]
+Late [GoldenVirus6 FakeBackground51][Pfeil3] -> [GoldenVirus6 FakeBackground51][Pfeil4]
+Late [GoldenVirus6 FakeBackground51][FakeBackground52] -> [GoldenVirus6 FakeBackground51][GoldenVirus7]
+Late [Player GoldenVirus3][FakeBackground53] -> [Player GoldenVirus3][WallFake15]
+(Late [Player GoldenVirus7][Pfeil3] -> [Player GoldenVirus7][Pfeil4])
+
+==============
+WINCONDITIONS
+============== 
+All P on æ
+=======
+LEVELS
+=======
+
+
+
+
+MESSAGE D̳a̳y̳ ̳1̳2̳
+MESSAGE GO FAST! DAHYUN NEEDS YOUR HELP.
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+û...............û
+û.p.............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+
+MESSAGE D̳a̳y̳ ̳3̳8̳
+MESSAGE Keep going through the straight green door.
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+ûûûûûûûûûûûûûûûûû
+û.Ð..Ç.ü.Ð..Ð..Ðû
+û....Ç.ü.Ð.....Ðû
+û....Ç.ü.......Ðû
+ƒp...Ç.ü........æ
+û....Ç.ü........û
+û..Ð.Ç.ü........û
+û..Ð.Ç.ü.....Ð..û
+ûûûûûûûûûûûûøûûûû
+
+MESSAGE D̳a̳y̳ 2̳5̳4̳
+MESSAGE M̳i̳n̳o̳r̳ ̳b̳u̳g̳ ̳r̳e̳p̳o̳r̳t̳e̳d̳,̳ ̳s̳u̳b̳j̳e̳c̳t̳ ̳#̳4̳3̳2̳ ̳d̳i̳d̳ ̳n̳o̳t̳ ̳n̳o̳t̳i̳c̳e̳.̳
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+ƒ×..............æ
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE D̳a̳y̳ ̳3̳6̳5̳
+MESSAGE S̳u̳b̳j̳e̳c̳t̳ ̳#̳4̳3̳2̳ ̳c̳a̳m̳e̳ ̳i̳n̳ ̳c̳o̳n̳t̳a̳c̳t̳ ̳w̳i̳t̳h̳ ̳S̳u̳b̳j̳e̳c̳t̳ ̳#̳4̳3̳1̳.̳
+MESSAGE C̳o̳n̳s̳o̳l̳e̳: ̳S̳u̳b̳j̳e̳c̳t̳.̳d̳e̳l̳e̳t̳e̳ (̳#̳4̳3̳1̳)̳
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+ƒXB.............£
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE Everything is fine, you are just tired but you are almost there.
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+ûûûûûûûûûûûûûûûûû
+û.....üüüüüüüüü.û
+û....ü.......í.üû
+û....ü.........üû
+ƒp...ü....üüüüü.û
+û....ü...ü.ÇÇÇ..û
+û.....üüü.Ç...Ç.û
+û.........Ç...Ç.û
+ûûûûûûûûûûûûøûûûû
+
+MESSAGE D̳a̳y̳ ̳5̳8̳7̳
+MESSAGE M̳u̳l̳t̳i̳p̳l̳e̳ ̳e̳r̳r̳o̳r̳s̳ ̳d̳e̳t̳e̳c̳t̳e̳d̳.̳
+MESSAGE R̳e̳b̳o̳o̳t̳i̳n̳g̳...̳
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE †hêrê ï§ ñð†hïñg †hêrê, §†ðþ lï§†êñïñg †ð hïm
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE †åkê †hê other Ðoor ñêx† †ïmê ¥ou §êê ï†...
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+ƒp..............æ
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE ...ðr ¥ou wïll ñêvêr §åvê hêr.
+MESSAGE 
+MESSAGE GO FAST! DAHYUN NEEDS YOUR HELP.
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+û...............û
+ûp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE Keep going through the straight green door.
+MESSAGE ßê rêåÐ¥
+
+ûûûûûûûûûûûûûûûûû
+û...............û
+û...............û
+û...............û
+ƒp..............æ
+û...............û
+û...............û
+û...............û
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE Remember im your friend, trust me and keep going through the green door.  
+
+ûûûûûûûûûûûûûûûûû
+ûé.â.ä.à.å.à.à.àû
+û.é.â.ä.à.å.à.à.û
+ûü.é.â.ä.à.å.à.àû
+ƒpü.é.â.ä.à.å.à.£
+ûü.é.â.ä.à.å....û
+û.é.â.ä.à.å.....û
+ûé.â.ä.à.å......û
+ûûûûûûûûûûûûöûûûû
+
+MESSAGE GO BACK, WHAT ARE YOU DOING?
+MESSAGE YOU JUST HAD TO GO STRAIGHT!
+MESSAGE YOU HAVE TO GO BACK!
+MESSAGE ¥ou ÐïÐ gooÐ, ñow †r¥ †o fïñÐ å wå¥ ou†!
+MESSAGE Çðllê¢† †hê GðlÐêñ Vïru§ê§, ¥ou wïll ñêêÐ †hêm for lå†êr.
+
+ûûûûûûûûûûûûƒûûûû
+û...Q.......p...û
+û......Q........û
+ûë..M.....M....êû
+ûî..N........N.ïû
+ûñ.....O......Oòû
+û......Q......Q.û
+û.Q.G......Q....û
+ûûûûæûûûûûûûûûûûû
+MESSAGE G̾o̾l̾d̾e̾n̾ ̾V̾i̾r̾u̾s̾e̾s̾ ̾(̾1/10)̾
+
+MESSAGE Look§ lïkê hê ï§ †r¥ïñg †o gê† ¥ou! ¥ou håvê †ð ßê ¢årê£ull. ÄñÐ †r¥ †ð usê †hê rïgh† wå¥. 
+
+ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+û...............ûû...............û
+û...............ûû...............û
+û...............ûû...............û
+ƒp.......................A...T...û
+û...............ûû...............û
+û......╦........ûû...............û
+û...............ûû...............û
+¥¥¥¥¥¥¥1¥¥¥¥¥¥¥¥¥¥ûûûûûûûûûûûûûûûû
+¢¢¢¢¢¢¢2¢¢¢¢¢¢¢¢¢¥ûûûûûûûûûûûûûûûû
+ûS.S...┐...SSSS└┴┬...............û
+û.S.ST.S.T.SSSS└┴┬...............û
+ûS.TS.S..S.STSS└┴┬...............û
+ûSS.S.ST.ST..S.└34..............Gæ
+û.S..T.S.S.S.S.└┴┬...............û
+û..T.S.S.T.ST.S└┴┬...............û
+ûS.S.S..S.S.S..└┴┬...............û
+ûûûûûûûûûûûûûûûû┴┬ûûûûûûûûûûûûûûûû
+
+MESSAGE G̾o̾l̾d̾e̾n̾ ̾V̾i̾r̾u̾s̾e̾s̾ ̾(̾2/10)̾
+MESSAGE Ì †ðlÐ ¥ou †o go †hê rïgh† wå¥.
+MESSAGE
+MESSAGE GO FAST! DAHYUN NEEDS YOUR HELP.
+
+³³³ûûûûûûûûûûûûûû
+³³³...ㄷ...ㄱ.³...û
+³.....³...ㄷ.....û
+û.........³.....û
+û.p.............æ
+û......³........û
+û......ㄱ....³³..û
+³³³..³.ㄷ....³...û
+ûûûûûûûûûûûûû³û³û
+
+MESSAGE Come back, it is for your own good. 
+
+û¢¢û¢¢¢¢ûûûûûûûûûûûûûûûûûûûûûûûûûû
+¢...!M!.!!!.....ûû...............û
+¢...!T!.........ûû...............û
+û........Q....!!ûû...............û
+ƒp............!T££.......G.......÷
+û......!!!....!!ûû...............û
+û.ㅍ@..ㅛ!%!......ûû...............û
+û......!!!......ûû...............û
+ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+
+MESSAGE G̾o̾l̾d̾e̾n̾ ̾V̾i̾r̾u̾s̾e̾s̾ ̾(̾3/10)̾
+MESSAGE GO FAST! DAHYUN NEEDS YOUR HELP.
+
+³³³³³³ûûûûûûûûûûû
+³³³³..ㄷ.ㄱ.ㄱ.ㄱ...û
+³³³³³.ㄱ.ㄷ...ㄱ...û
+³....³....³...³.û
+³.p..³..........æ
+³..³...³...³....û
+³..ㄱ...ㄱ.³³.....û
+³³³³³³.ㄷ..³.....û
+³³³³³³³³³³³³ûûûûû
+
+
+ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈûûûûûûûûûûûûûûûûû
+û...!..ㅡ.!......ûû..Ç..ü.........ûû....ûûƒ¨×......°$$$$$ㅈ$$$$$$$$$$ㅈû............!!!û
+û..ㅡ!....!ㅛ.....ûû..Çü.ü.........ûû....ûûûûûûûûûûûㅈㅈㅈㅈㅈㅈㅈ$$$$$$$$$$ㅈû他..ㅏ.....这...ㅐㄲû
+û!!!!!!!!!......ûûÇ..ü...........ûû.._.ûûƒ...XB....$$$$$ㅈ$$$$$$$$..ûû了...ㅏ....在..的.ㄲû
+ƒP................Ç.ü...%........ûû....ûûûûûûûûûûûㅈㅈㅈㅈㅈㅈㅈ$......??.ㅈûㅃ.ㅠ..ㅏ...ㅔ.ㅗ上.ㄲû
+û!!!!!..........ûû.Ç.............ûû....ûûƒ.......╠12.ㅂ..÷.......*??ㅈû之...ㅏ....来..是.ㄲû
+û.g..!..........ûûÇ.ü............ûû....ûûûûûûûûûûûㅈㅈㅈㅈㅈㅈㅈ$...ㅜ..??.ㅈû个..ㅏ.....中...ㅕㄲû
+û....!..........ûû.ü........TTTTTû¹....ûûƒë..M-..ê地ㅑ$$$$$$$$$$$$$.ㅌㅊㅊㅌ说..........!!!û
+ûûûûûûûûûㅑûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû$$$$$$$$$$$$$$$$ㅈûûûûûûûûûûûûûûûûû
+ûûûûûûûûûㅑû³³û³³ûûûûûûûûûûûû¹¹¹¹¹ûûûûûûûûûûûûû-ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+³³³ㄷㄱ³..³ㅁ³³³ㄷㄱ.ûû..û.ñ...Gû.....ûûûûûûûûûû....ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+ûㄷ³³ㄷ³³³³.³³³³³.³û....Oûûûûû.û²ûûûûûûûûûûûû.ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+û³ㄱ³³³.³...³³³..ûûî...òN..ïû.û...ûûûûûûûûûû.ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+³ㄷㄷ³³³³³³.³³³ㄷXB³û...ûûûûû²û...ûûûûûûûûû....ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+³ㄱ³³³ㄴ³³..ㅎ³³³.ㅋûû...............ûûûûûûû.ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+³ㄷ³³³³³³³...³³³³ûûûûûûûûûû²ûûû@ûûûûûûûûû.ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+³³³³³³³³³.......ㅑㅑ...........╠...²²......ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+³û³³³³ûûûûûû³³ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+(
+ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈㅈ
+û...G......G....ûû..Ç..ü.........ûû....ûûƒ¨×......°$$$$$ㅈ$$$$$$$$$$ㅈ
+û......G........ûû..Çü.ü.........ûû....ûûûûûûûûûûûㅈㅈㅈㅈㅈㅈㅈ$$$$$$$$$$ㅈ
+û!!!!!!!!!!!!!!!ûûÇ..ü...........ûû.._.ûûƒ...XB....$$$$$ㅈ$$$$$$$$$$ㅈ
+ƒp................Ç.ü...%........ûû....ûûûûûûûûûûûㅈㅈㅈㅈㅈㅈㅈ$......??.ㅈ
+û!!!!!!!!!!!!!!!ûû.Ç.............ûû....ûûƒ.......╠12.ㅂ..÷.......*??ㅈ
+û.G......G......ûûÇ.ü............ûû....ûûûûûûûûûûûㅈㅈㅈㅈㅈㅈㅈ$......??.ㅈ
+û.....G....G....ûû.ü........TTTTTû¹....ûûƒë..M-..ê地$$$$$$$$$$$$$$$$ㅈ
+ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû$$$$$$$$$$$$$$$$ㅈ
+ûûûûûûûûûûûûûûûûûûûûûûûûûûûû¹¹¹¹¹ûûûûûûûûûûûûû-ûûûûûûûûûûûûûûûûûûûûû
+û...............ûû..û.ñ...Gû.....ûûûûûûûûûû....ûûûûûûûûûûûûûûûûûûûûû
+û...............ûû....Oûûûûû.ûûûûûûûûûûûûûû.ûûûûûûûûûûûûûûûûûûûûûûûû
+û...............ûûî...òN..ïû.û...ûûûûûûûûûû.ûûûûûûûûûûûûûûûûûûûûûûûû
+û.............ûû.û...ûûûûû²û...ûûûûûûûûû....ûûûûûûûûûûûûûûûûûûûûûûûû
+û...............ûû...............ûûûûûûû.ûûûûûûûûûûûûûûûûûûûûûûûûûûû
+û...............ûûûûûûûûûû²ûûû@ûûûûûûûûû.ûûûûûûûûûûûûûûûûûûûûûûûûûûû
+û...............ûû...........╠...²²......ûûûûûûûûûûûûûûûûûûûûûûûûûûû
+ûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûûû
+)
+
+MESSAGE 
+MESSAGE Caught you, finally. 
+MESSAGE Subject #432, I got in a lot of trouble because of you.
+MESSAGE You are lucky they consider you valuable.
+MESSAGE All you had to do was to follow a straight path and go through the green door.
+MESSAGE I would love to .delete you out of existence.
+MESSAGE What do you mean with "Dahyun"? hahahaha.
+MESSAGE If you think you can save her then you haven't been paying attention.
+MESSAGE All this is just something we made you believe you want. Things that prevent you from seeing reality because you are constantly chasing it.
+MESSAGE In exchange for those things you give us your time.
+MESSAGE You may be wondering why Im  tell you all this.
+MESSAGE Well no matter what I say, you just have to be a good pawn and do the same as everyone else.
+MESSAGE You will forget everything tomorrow anyways and go back to your same old habits.
+MESSAGE You will never live life
+MESSAGE
+MESSAGE G̾o̾l̾d̾e̾n̾ ̾V̾i̾r̾u̾s̾e̾s̾ - FAILED
+
+³³³³³³³³³³³³³³³³³
+³³³³³³³³³³³³³³³³³
+³³³³³³³³³³³³³³³³³
+³³³³³³³ò......OO.
+æê.p.........*.MM
+³³³³³³³ï......NN.
+³³³³³³³³³³³³³³³³³
+³³³³³³³³³³³³³³³³³
+³³³³³³³³³³³³³³³³³
+
+MESSAGE R̳e̳b̳o̳o̳t̳i̳n̳g̳.
+MESSAGE R̳e̳b̳o̳o̳t̳i̳n̳g̳..
+MESSAGE R̳e̳b̳o̳o̳t̳i̳n̳g̳...
+MESSAGE
+MESSAGE D̳a̳y̳ ̳5̳8̳8̳
+MESSAGE GO FAST! DAHYUN NEEDS YOUR HELP.
+
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE D̳a̳y̳ ̳1̳4̳3̳7̳
+MESSAGE GO FAST! DAHYUN NEEDS YOUR HELP.
+
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE D̳a̳y̳ ̳5̳8̳2̳3̳
+MESSAGE GO FAST! DAHYUN NEEDS YOUR HELP.
+
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE D̳a̳y̳ ̳7̳8̳5̳4̳
+MESSAGE GO FAST! DAHYUN NEEDS YOUR HELP.
+
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+û.p.............æ
+ûûûûûûûûûûûûûûûûû
+
+MESSAGE D̳a̳y̳ ̳1̳2̳9̳3̳4̳
+MESSAGE S̳u̳b̳j̳e̳c̳t̳ ̳#̳4̳3̳2̳ ̳D̳E̳C̳E̳A̳S̳E̳D̳.
+MESSAGE Y̳O̳U̳ ̳C̳O̳U̳L̳D̳N̳'̳T̳ ̳H̳E̳L̳P̳ H̳I̳M̳.
+MESSAGE A̳T̳ ̳L̳E̳A̳S̳T̳ ̳H̳E̳ ̳T̳R̳I̳E̳D̳ ̳T̳O̳ ̳E̳S̳C̳A̳P̳E̳ HI̳S̳ ̳C̳O̳N̳T̳R̳O̳L̳L̳E̳D̳ ̳R̳E̳A̳L̳I̳T̳Y̳.
+MESSAGE W̲H̲Y̲ ̲D̲O̲N̲T̲ ̲Y̲O̲U̲?̲
+MESSAGE .
+MESSAGE ..
+MESSAGE ... Y̲O̲U̲ ̲W̲I̲L̲L̲ ̲F̲O̲R̲G̲E̲T̲ ̲E̲V̲E̲R̲Y̲T̲H̲I̲N̲G̲ ̲T̲O̲M̲O̲R̲R̲O̲W̲ ̲A̲N̲Y̲W̲A̲Y̲S̲.
+MESSAGE
